@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ali-raza366
+- 👋 Hi, I’m Ali-raza.
 - 👀 I’m interested in web developing.
 - 🌱 I’m currently learning Bootstrap and Javascript.
 - 💞️ I’m looking to collaborate on ...
